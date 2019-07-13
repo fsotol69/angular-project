@@ -46,4 +46,4 @@ La aplicación permite todo lo anterior y además :
 
 Los Mokups de las presentaciones básicas serían los siguientes:
 
-![mockups]('')
+![mockups](https://github.com/fsotol69/angular-project/blob/master/recursos/mockups/img/mockups.png)
